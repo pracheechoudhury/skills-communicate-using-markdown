@@ -6,3 +6,7 @@
 ``` javascript
 var myVar = "Hello world!";
 ```
+- [x] Learn Github markdown theory
+- [ ] Complete important Github skills courses
+- [ ] Bake a cake
+      
